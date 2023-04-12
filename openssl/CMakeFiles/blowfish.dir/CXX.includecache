@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cryu17/wrapper/binaries/openssl/blowfish.cpp
+openssl/blowfish.h
+-
+unistd.h
+-
+cstdlib
+-
+iostream
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cryu17/wrapper/binaries/openssl/rsa_public.cpp
+openssl/rsa.h
+-
+openssl/pem.h
+-
+openssl/err.h
+-
+stdio.h
+-
+string.h
+-
+
