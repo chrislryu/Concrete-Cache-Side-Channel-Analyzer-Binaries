@@ -1,1 +1,0 @@
-/usr/bin/c++   -O0 -mno-default   CMakeFiles/rsa.dir/rsa_public.cpp.o  -o rsa  /usr/lib/x86_64-linux-gnu/libcrypto.a -lpthread -ldl 

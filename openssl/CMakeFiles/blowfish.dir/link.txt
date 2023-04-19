@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/blowfish.dir/blowfish.cpp.o  -o blowfish  /usr/lib/x86_64-linux-gnu/libcrypto.a -lpthread -ldl 
