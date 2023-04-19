@@ -3,3 +3,10 @@ CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+
+*/CMakeFiles
+*/CMakeCache.txt
+*/cmake_install.cmake
+*/Makefile
+*/binary
+*/binary.txt
